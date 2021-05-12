@@ -117,3 +117,4 @@ if token is None:
     with open("token") as f:
         token = f.readline()
 bot.run(token)
+Clint.login('')
